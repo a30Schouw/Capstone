@@ -1,5 +1,11 @@
 package za.ac.mycput.Repository.foodType;
 
+/*FoodTypeRepository.java
+  Repository for FoodItem
+  Author: Anicka Schouw 217284183
+  Date: April 2022
+*/
+
 import za.ac.mycput.Entity.FoodType;
 
 import java.util.HashSet;
